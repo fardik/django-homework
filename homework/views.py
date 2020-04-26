@@ -19,7 +19,17 @@ class IndexView(TemplateView):
                         'english': 5,
                         'sport': 2.3,
                         'average': 2.3,
-                    }
+                    },
+                    {
+                        'id': 1,
+                        'fio': 'Someone',
+                        'timp': 2,
+                        'eis': 3,
+                        'philosophy': 4,
+                        'english': 5,
+                        'sport': 2.3,
+                        'average': 2.3,
+                    },
                 ],
                 'excellent_students': 'Student A, Student B',
                 'bad_students': 'Student C, Student D'
